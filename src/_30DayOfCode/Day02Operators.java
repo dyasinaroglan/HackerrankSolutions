@@ -2,7 +2,7 @@ package _30DayOfCode;
 
 import java.util.Scanner;
 
-public class Day3Operators {
+public class Day02Operators {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
